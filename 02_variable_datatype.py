@@ -7,16 +7,16 @@ print("01.", fruits)
 # Rules for naming variables
 
 # Right way
-# fruits = "mangos"
-# myfav_fruits = "mangos"
-# _fruits = "mangos"
-# fruits1 = "mangos"
+fruits = "mangos"
+myfav_fruits = "mangos"
+_fruits = "mangos"
+fruits1 = "mangos"
 
 # Wrong way
-# $fruits = "mangos"
-# myfav fruits = "mangos"
-# 1fruits = "mangos"
-# fru-its = "mangos"
+$fruits = "mangos"
+myfav fruits = "mangos"
+1fruits = "mangos"
+fru-its = "mangos"
 
 # Data types in the Python
 # 1. number 2. string 3. boolean 4. list 5. set 6. dictionary
